@@ -23,7 +23,7 @@ export default class App extends Component<Props> {
     return (
       <ApolloProvider client={client}>
         <View style={styles.container}>
-          <Text style={styles.welcome}>Testing out Mikes Cooking app GraphQL front end.</Text>
+          <Text style={styles.welcome}>Test pushing to Mikes Cooking app GraphQL front end.</Text>
         </View>
       </ApolloProvider>
     );
