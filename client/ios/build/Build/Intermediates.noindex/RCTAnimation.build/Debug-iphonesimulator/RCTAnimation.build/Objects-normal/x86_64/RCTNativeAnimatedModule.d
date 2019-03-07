@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedModule.m \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedModule.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerObserverCoordinator.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerUtils.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/johnny/Documents/frontmikescookingapp/mikescooking/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h
