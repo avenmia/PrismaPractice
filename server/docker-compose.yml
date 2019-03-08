@@ -5,6 +5,8 @@ services:
     restart: always
     ports:
     - "4466:4466"
+    env_file:
+      - server.env
     environment:
       PRISMA_CONFIG: |
         port: 4466
